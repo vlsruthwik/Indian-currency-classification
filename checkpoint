@@ -1,0 +1,2 @@
+model_checkpoint_path: "optimised_CNN"
+all_model_checkpoint_paths: "optimised_CNN"
